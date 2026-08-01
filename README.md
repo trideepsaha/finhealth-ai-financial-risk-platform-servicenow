@@ -90,7 +90,6 @@ Dashboards & Analytics
 ## 🤖 AI Agents
 
 - Financial Health Scoring
-- Early Warning Detection
 - Default Prediction
 - Debt Restructuring Recommendation
 - Customer Engagement Recommendation
