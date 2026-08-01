@@ -6,7 +6,7 @@ AI Powered Financial Risk Prevention Platform (Enterprise ServiceNow solution)
 ![Flow Designer](https://img.shields.io/badge/Flow-Designer-orange)
 ![UI Builder](https://img.shields.io/badge/UI-Builder-purple)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 
 ---
 
